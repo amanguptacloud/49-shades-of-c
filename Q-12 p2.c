@@ -1,6 +1,6 @@
 // Swap two numbers using a third variable and again without using a third variable.
 // methods without a third variable 
-// 1st methode
+// 1st method
 #include <stdio.h>
 
 int main() {
